@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/radhakishan404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/radhakishan404?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-38-0ea5e9?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-39-0ea5e9?style=for-the-badge"></a>
   <a href="https://github.com/radhakishan404/sshipit"><img alt="Featured project" src="https://img.shields.io/badge/Featured-SSHipIt-10b981?style=for-the-badge"></a>
-  <a href="https://radhakishan.site/"><img alt="Website" src="https://img.shields.io/badge/Website-radhakishan.site-2563eb?style=for-the-badge"></a>
+  <a href="https://radhakishan404.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-radhakishan404.github.io-2563eb?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -68,8 +68,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=radhakishan404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhakishan404&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=radhakishan404&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radhakishan404&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://radhakishan.site/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://radhakishan404.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://twitter.com/jangirr48"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/radhakishan404"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
