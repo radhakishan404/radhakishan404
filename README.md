@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/profile-banner.svg" alt="Radhakishan profile banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/radhakishan404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/radhakishan404?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-38-0ea5e9?style=for-the-badge"></a>
   <a href="https://github.com/radhakishan404/sshipit"><img alt="Featured project" src="https://img.shields.io/badge/Featured-SSHipIt-10b981?style=for-the-badge"></a>
@@ -70,6 +74,10 @@
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=radhakishan404&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhakishan404&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
 </p>
 
 ---
