@@ -12,6 +12,7 @@
   <a href="https://github.com/radhakishan404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/radhakishan404?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-39-0ea5e9?style=for-the-badge"></a>
   <a href="https://github.com/radhakishan404/sshipit"><img alt="Featured project" src="https://img.shields.io/badge/Featured-SSHipIt-10b981?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404/notch-prompter"><img alt="Featured project" src="https://img.shields.io/badge/New-notch--prompter-14b8a6?style=for-the-badge"></a>
   <a href="https://radhakishan404.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-radhakishan404.github.io-2563eb?style=for-the-badge"></a>
 </p>
 
@@ -54,6 +55,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**notch-prompter**](https://github.com/radhakishan404/notch-prompter) | A notch-aligned native macOS teleprompter built with SwiftUI | Swift, SwiftUI, macOS |
 | [**SSHipIt**](https://github.com/radhakishan404/sshipit) | Self-hosted CI/CD over SSH for Node.js/Next.js/React deployments | Node.js, Express, SQLite, WebSocket, SSH |
 | [**react-native-stylish-accordion**](https://github.com/radhakishan404/react-native-stylish-accordion) | Customizable accordion component for React Native | React Native |
 | [**react-native-stylish-notification-alert**](https://github.com/radhakishan404/react-native-stylish-notification-alert) | Animated notification alert package | React Native |
