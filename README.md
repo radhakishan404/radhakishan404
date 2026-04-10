@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/radhakishan404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/radhakishan404?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-39-0ea5e9?style=for-the-badge"></a>
-  <a href="https://github.com/radhakishan404/sshipit"><img alt="Featured project" src="https://img.shields.io/badge/Featured-SSHipIt-10b981?style=for-the-badge"></a>
-  <a href="https://github.com/radhakishan404/notch-prompter"><img alt="Featured project" src="https://img.shields.io/badge/New-notch--prompter-14b8a6?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-44-0ea5e9?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404/MacEdits"><img alt="Featured project" src="https://img.shields.io/badge/New-MacEdits-f59e0b?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404/notch-prompter"><img alt="Featured project" src="https://img.shields.io/badge/macOS-notch--prompter-14b8a6?style=for-the-badge"></a>
+  <a href="https://github.com/radhakishan404/sshipit"><img alt="Featured project" src="https://img.shields.io/badge/Deploy-SSHipIt-10b981?style=for-the-badge"></a>
   <a href="https://radhakishan404.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-radhakishan404.github.io-2563eb?style=for-the-badge"></a>
 </p>
 
@@ -26,8 +27,9 @@
 
 - 📍 Based in **Mumbai, India**
 - 🛠️ Building practical tools for real-world deployment and developer productivity
+- 🍎 Shipping macOS-first tools like **MacEdits** and **notch-prompter**
 - 🔐 Big fan of **self-hosted systems**, **clean automation**, and **simple UX**
-- 🌱 Currently focused on making **SSHipIt** better for production teams
+- 🌱 Currently focused on **MacEdits**, **SSHipIt**, and sharper personal product distribution
 - 🤝 Open to collaboration on Node.js, Next.js, React, and React Native projects
 
 ---
@@ -55,6 +57,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**MacEdits**](https://github.com/radhakishan404/MacEdits) | Local-first macOS reel editor for creators with recording, timeline editing, and export workflows | Swift, SwiftUI, AVFoundation, ScreenCaptureKit |
 | [**notch-prompter**](https://github.com/radhakishan404/notch-prompter) | A notch-aligned native macOS teleprompter built with SwiftUI | Swift, SwiftUI, macOS |
 | [**SSHipIt**](https://github.com/radhakishan404/sshipit) | Self-hosted CI/CD over SSH for Node.js/Next.js/React deployments | Node.js, Express, SQLite, WebSocket, SSH |
 | [**react-native-stylish-accordion**](https://github.com/radhakishan404/react-native-stylish-accordion) | Customizable accordion component for React Native | React Native |
@@ -64,6 +67,14 @@
 | [**candidate-cv-builder-api**](https://github.com/radhakishan404/candidate-cv-builder-api) + [frontend](https://github.com/radhakishan404/candidate-cv-builder-react) | CV builder backend and frontend repos | Node.js + React |
 
 > More projects: [github.com/radhakishan404?tab=repositories](https://github.com/radhakishan404?tab=repositories)
+
+---
+
+## ⚡ Latest Shipping
+
+- [**MacEdits**](https://github.com/radhakishan404/MacEdits) - local-first macOS reel editor built with SwiftUI + AVFoundation
+- [**Portfolio refresh**](https://radhakishan404.github.io/) - retro terminal redesign, animated hero collage, refreshed favicon, and updated project/article surfacing
+- [**Free Domain Guide**](https://radhakishan404.github.io/articles/free-domain-guide) - new practical article for free dev domains and personal site setup
 
 ---
 
@@ -87,8 +98,8 @@
 ## 🧭 Current Focus
 
 - Make **SSHipIt** a go-to lightweight deploy platform
-- Improve deployment UX for multi-project teams
-- Keep contributing reusable React Native components
+- Push **MacEdits** further on editing UX, export reliability, and creator workflows
+- Keep turning shipped work into better public docs, guides, and portfolio case studies
 
 ---
 
